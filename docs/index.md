@@ -14,11 +14,35 @@ One Halloween, you got keen to explore the house. But none of your friends are u
 
 ## Unity World
 
+[Link to Video Walk-through](#)
 
+
+I added a few details like gardening tools and bucket to enforce the elements of the scene.
+
+![Detail](assets/Details1.png)
+
+![Detail](assets/Details2.png)
 
 ## Process
 
- 
+I started off by creating the storyboard for the experience. After browsing for inspirations online, I then downloaded the assets of the old house and tree. After that, I tried building my own assets using polybrush and polybuilder. Then I added light, animations and sound bringing the environment to life.
+
+
+Progess before submitting the progress report:
+![](assets/Progress.png)
+
+
+![](assets/Progress2.png)
+
+
+Final project:
+
+![](assets/Progress3.png)
+
+
+![](assets/Details0.png)
+
+
 
 
 ## Challanges 
